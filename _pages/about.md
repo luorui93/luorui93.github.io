@@ -6,12 +6,12 @@ description: <a href="https://ece.northeastern.edu/">Electrical and Computer Eng
 
 profile:
   align: right
-  image: gaussian.jpg
+  image: gaussian.png
   address: >
 
 news: false  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social:   # includes social icons at the bottom of the page
+social: true # includes social icons at the bottom of the page
 ---
 
 Hi, I'm Rui Luo. A PhD student at RiverLab@Northeastern University. My major is computer enginnerring. 
