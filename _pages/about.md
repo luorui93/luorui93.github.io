@@ -2,13 +2,12 @@
 layout: about
 title: about
 permalink: /
-description: <a href="https://ece.northeastern.edu/">Electrical and Computer Engineering Department</a>・<a href="https://www.northeastern.edu/">Northeastern University
+description: <a href="https://ece.northeastern.edu/">Electrical and Computer Engineering Department</a>・<a href="https://www.northeastern.edu/">Northeastern University</a>
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: gaussian.jpg
   address: >
-    <p>luo.rui@northeastern.edu</p>
 
 news: false  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
