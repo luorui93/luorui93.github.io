@@ -42,7 +42,7 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # Social integration
 # -----------------------------------------------------------------------------
 
-github_username: # your GitHub user name
+github_username: luorui93 # your GitHub user name
 gitlab_username: # your GitLab user name
 twitter_username: # your Twitter handle
 linkedin_username: # your LinkedIn user name
@@ -142,8 +142,8 @@ github: [metadata]
 
 scholar:
 
-  last_name: Einstein
-  first_name: [Albert, A.]
+  last_name: Luo
+  first_name: [Rui]
 
   style: apa
   locale: en
